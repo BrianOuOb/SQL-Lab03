@@ -1,2 +1,2 @@
 INSERT INTO Employee
-VALUES('S006', '·s­û¤u',' D010')
+VALUES('S0006', 'Â·sÂ­Ã»Â¤u',' D010')
